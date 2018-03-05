@@ -1,0 +1,13 @@
+{
+  "extends": "stylelint-config-sass-guidelines",
+  "rules": {
+    "max-nesting-depth": 3,
+    "scss/at-mixin-pattern": "^(terra-)[a-z]+([a-z0-9-]+[a-z0-9]+)?$",
+    "selector-class-pattern": [
+      //TODO: Add a style pattern for consistent naming convention
+      {
+        "message": "Class names should match the SUIT CSS naming convention"
+      }
+    ]
+  }
+}

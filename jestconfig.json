@@ -1,0 +1,16 @@
+{
+  "setupFiles": [
+    "./jestsetup.js"
+  ],
+  "snapshotSerializers": [
+    "./node_modules/enzyme-to-json/serializer"
+  ],
+  "moduleNameMapper": {
+    "\\.(css|scss|svg)$": "identity-obj-proxy"
+  },
+  "collectCoverage": true,
+  "collectCoverageFrom": ["src/allergy-summary/**/*.js", "src/allergy-summary/**/*.jsx"],
+  "coverageDirectory": "target/reports/coverage",
+  "coveragePathIgnorePatterns": ["src/site/*.*"],
+  "coverageReporters": ["html", "lcov", "cobertura", "text-summary"]
+}

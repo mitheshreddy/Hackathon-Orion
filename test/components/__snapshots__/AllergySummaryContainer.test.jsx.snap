@@ -1,0 +1,319 @@
+exports[`test should render a AllergySummary container with a IonAllergiesEngine failed 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <SearchPhy />,
+  "nodes": Array [
+    <SearchPhy />,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance":  {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <AllergySummaryContainer
+        allergySummary={undefined}
+        isFailed={true}
+        isLoading={undefined}
+        refreshAllergySummary={[Function]} />,
+      "_debugID": 15,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": AllergySummaryContainer {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "handleOnClick": [Function],
+        "props": Object {
+          "allergySummary": undefined,
+          "isFailed": true,
+          "isLoading": undefined,
+          "refreshAllergySummary": [Function],
+        },
+        "refs": Object {},
+        "state": Object {
+          "isOpen": false,
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 8,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <SearchPhy />,
+        "_debugID": 16,
+        "_renderedOutput": <SearchPhy />,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <AllergySummaryContainer
+    allergySummary={undefined}
+    isFailed={true}
+    isLoading={undefined}
+    refreshAllergySummary={[Function]} />,
+}
+`;
+
+exports[`test should render a AllergySummaryContainer with IonAllergiesEngine loading 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <SearchPhy />,
+  "nodes": Array [
+    <SearchPhy />,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance":  {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <AllergySummaryContainer
+        allergySummary={undefined}
+        isFailed={undefined}
+        isLoading={undefined}
+        refreshAllergySummary={[Function]} />,
+      "_debugID": 11,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": AllergySummaryContainer {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "handleOnClick": [Function],
+        "props": Object {
+          "allergySummary": undefined,
+          "isFailed": undefined,
+          "isLoading": undefined,
+          "refreshAllergySummary": [Function],
+        },
+        "refs": Object {},
+        "state": Object {
+          "isOpen": false,
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 6,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <SearchPhy />,
+        "_debugID": 12,
+        "_renderedOutput": <SearchPhy />,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <AllergySummaryContainer
+    allergySummary={undefined}
+    isFailed={undefined}
+    isLoading={undefined}
+    refreshAllergySummary={[Function]} />,
+}
+`;
+
+exports[`test should render a AllergySummaryContainer with a nonpopulated AllergySummary 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <SearchPhy />,
+  "nodes": Array [
+    <SearchPhy />,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance":  {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <AllergySummaryContainer
+        allergySummary={undefined}
+        isFailed={undefined}
+        isLoading={undefined}
+        refreshAllergySummary={[Function]} />,
+      "_debugID": 7,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": AllergySummaryContainer {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "handleOnClick": [Function],
+        "props": Object {
+          "allergySummary": undefined,
+          "isFailed": undefined,
+          "isLoading": undefined,
+          "refreshAllergySummary": [Function],
+        },
+        "refs": Object {},
+        "state": Object {
+          "isOpen": false,
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 4,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <SearchPhy />,
+        "_debugID": 8,
+        "_renderedOutput": <SearchPhy />,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <AllergySummaryContainer
+    allergySummary={undefined}
+    isFailed={undefined}
+    isLoading={undefined}
+    refreshAllergySummary={[Function]} />,
+}
+`;
+
+exports[`test should render a AllergySummaryContainer with a populated AllergySummary 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <SearchPhy />,
+  "nodes": Array [
+    <SearchPhy />,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance":  {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <AllergySummaryContainer
+        allergySummary="AllergySummary"
+        isFailed={undefined}
+        isLoading={undefined}
+        refreshAllergySummary={[Function]} />,
+      "_debugID": 3,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": AllergySummaryContainer {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "handleOnClick": [Function],
+        "props": Object {
+          "allergySummary": "AllergySummary",
+          "isFailed": undefined,
+          "isLoading": undefined,
+          "refreshAllergySummary": [Function],
+        },
+        "refs": Object {},
+        "state": Object {
+          "isOpen": false,
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 2,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <SearchPhy />,
+        "_debugID": 4,
+        "_renderedOutput": <SearchPhy />,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <AllergySummaryContainer
+    allergySummary="AllergySummary"
+    isFailed={undefined}
+    isLoading={undefined}
+    refreshAllergySummary={[Function]} />,
+}
+`;

@@ -1,0 +1,5 @@
+{
+  "ion-allergies-js/allergy-summary": {
+    "dependencies": ["./ion-allergies-js/lib/allergy-summary/registration"]
+  }
+}
